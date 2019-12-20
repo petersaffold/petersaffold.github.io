@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Strata by HTML5 UP</title>
+		<title>Peter Saffold - Embedded System Developer</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,7 +18,7 @@
 				<div class="inner">
 					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
 					<h1><strong>I am Peter Saffold</strong><br />
-					Embedded Systems Developer<br /></h1>
+					Embedded Systems Developer</h1>
 				</div>
 			</header>
 
@@ -43,33 +43,36 @@
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
-								<h3>Magna sed consequat tempus</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+								<h3>RoboFlagger</h3>
+								<p>Remotely operated traffic control robots.</p>
+  							<ul>
+								  <li>Raspberry Pi</li>
+								  <li>I2C Bus Interface</li>
+								  <li>High definition camera</li>
+								  <li>Wireless operation</li>
+								</ul>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
-								<h3>Ultricies lacinia interdum</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+								<h3>Mosquito Detector</h3>
+								<p>An FPGA based camera project built on a Zedboard.</p>
+  							<ul>
+								  <li>Xilinx System on Chip</li>
+								  <li>Vivado Tools</li>
+								  <li>Digital video processing</li>
+								  <li>HDMI output</li>
+								</ul>								
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
-								<h3>Tortor metus commodo</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-							</article>
-							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
-								<h3>Quam neque phasellus</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-							</article>
-							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
-								<h3>Nunc enim commodo aliquet</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-							</article>
-							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
-								<h3>Risus ornare lacinia</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+								<h3>Real-Time on FPGA</h3>
+								<p>Displays an analog clock on a VGA monitor.</p>
+								<ul>
+								  <li>Altera Cyclone II FPGA</li>
+								  <li>Quartus Design Software</li>
+								  <li>VHDL</li>
+								  <li>VGA output</li>
+								</ul>
 							</article>
 						</div>
 						<ul class="actions">
@@ -186,12 +189,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 									</ol>
 									<h5>Icons</h5>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
 										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-										<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-										<li><a href="#" class="icon brands fa-tumblr"><span class="label">Tumblr</span></a></li>
 									</ul>
 								</div>
 							</div>
@@ -439,10 +438,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<footer id="footer">
 				<div class="inner">
 					<ul class="icons">
-						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
